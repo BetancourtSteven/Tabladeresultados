@@ -1,4 +1,4 @@
-package application;
+![image](https://github.com/BetancourtSteven/Tabladeresultados/assets/169225554/2df17369-993e-4b4d-98f8-25c09da54108)package application;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
@@ -105,4 +105,19 @@ public class Main extends Application {
 
 ![image](https://github.com/BetancourtSteven/Tabladeresultados/assets/169225554/89c92e09-c430-44a8-8926-4384be24bf88)
 ![image](https://github.com/BetancourtSteven/Tabladeresultados/assets/169225554/31e661d2-c35c-47a5-961a-d366ef82d0ad)
+
+DATOS CARGADOS DESDE LA BASE DE DATOS
+![image](https://github.com/BetancourtSteven/Tabladeresultados/assets/169225554/23898de1-d087-4d3d-8a4f-0b55e6cdcd70)
+![image](https://github.com/BetancourtSteven/Tabladeresultados/assets/169225554/73908db1-c747-4667-9b3a-0444102270a8)
+![image](https://github.com/BetancourtSteven/Tabladeresultados/assets/169225554/46c3ce64-a7f6-4afa-8fb7-6ca4e9d81d7d)
+![image](https://github.com/BetancourtSteven/Tabladeresultados/assets/169225554/5917907b-af18-4f1a-bdeb-fcae137822b5)
+![image](https://github.com/BetancourtSteven/Tabladeresultados/assets/169225554/42b1ef62-295d-47a4-83b5-d38926089e5c)
+![image](https://github.com/BetancourtSteven/Tabladeresultados/assets/169225554/ccb3b0a7-0154-4a48-ad36-d322974bb631)
+
+
+
+
+
+
+
 
